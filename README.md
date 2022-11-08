@@ -4,7 +4,7 @@
 #### I have developed several projects throughout my web development courses, gaining experience in each one of them, I am currently studying the MERN stack to specialize much more in this area of web development.
 
 
-[![web](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://to1edo.netlify.app/)
+[![web](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://ctoledo.netlify.app/)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-toledo-384139187)
